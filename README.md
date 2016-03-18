@@ -14,3 +14,7 @@ Salve o arquivo em `lista.html` e depois rode:
     python parse.py
 
 A lista estará gerada em `vagabunds.md`;
+
+## E DEPOIS?
+
+> Boicote nos vagabundos, gente! Sem dó nem piedade. Eles querem transformar o Brasil numa Venezuela, num Cubão. Eles são comparsas dos bandidos que tomaram Brasília de assalto e atentam contra nossa democracia. Não comprem nada deles! Não leiam suas colunas! Não frequentem seus shows e peças. É boicote geral a petralha!
