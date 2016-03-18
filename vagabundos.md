@@ -623,6 +623,7 @@
 1. Priscila Miranda, distribuidora de filmes
 1. Priscilla Brasil, diretora e roteirista
 1. Rachel Monteiro, cineasta
+1. Rafael de Almeida Evangelista, antropólogo
 1. Rafael de Boer, professsor universitário
 1. Rafael Schlichting, cineasta experiemental
 1. Regina Pessoa, artista plástica
