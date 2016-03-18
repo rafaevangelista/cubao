@@ -113,6 +113,7 @@
 1. Caique Botkay, teatro e educação
 1. Camila Pitanga, atriz
 1. Camile Sproesser, artista visual
+1. Capi Etheriel, programador
 1. Carla Caffé, diretora de arte
 1. Carla Chaim, artista plástica
 1. Carla Francini, produtora e roteirista
